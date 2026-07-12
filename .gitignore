@@ -1,0 +1,6 @@
+/model
+/ml-32m
+/.venv
+ml-32m.zip
+__pycache__/
+*.pyc
